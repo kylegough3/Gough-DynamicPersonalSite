@@ -884,7 +884,7 @@ a.resume-download {
 
 .classmates h4 {
   font-weight: 600;
-  margin: 10px 0 15px 0;
+  margin: 10px 0 10px 0;
   font-size: 22px;
   background-color: #effbf9;
   text-align: center;
@@ -904,6 +904,17 @@ a.resume-download {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+
+.portfolio-wrap {
+    background-color: #D6D2D7;
+    margin: 1em;
+    text-align:center;
+    padding: 1em;
+    justify-content: center;
+}
+
+
+/* 
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -1022,12 +1033,12 @@ a.resume-download {
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
   opacity: 1;
-}
+}*/
 
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
-.portfolio-details {
+/*.portfolio-details {
   padding-top: 0;
 }
 
@@ -1087,7 +1098,7 @@ a.resume-download {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
-}
+}*/
 
 /*--------------------------------------------------------------
 # Contact

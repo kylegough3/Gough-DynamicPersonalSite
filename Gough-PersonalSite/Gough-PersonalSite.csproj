@@ -122,7 +122,6 @@
     <Content Remove="wwwroot\assets\vendor\swiper\swiper-bundle.min.js" />
     <Content Remove="wwwroot\assets\vendor\swiper\swiper-bundle.min.js.map" />
     <Content Remove="wwwroot\assets\vendor\waypoints\noframework.waypoints.js" />
-    <Content Remove="wwwroot\contact.html" />
     <Content Remove="wwwroot\forms\contact.php" />
     <Content Remove="wwwroot\forms\Readme.txt" />
     <Content Remove="wwwroot\forms\Resume Kyle Gough_Code.docx" />
@@ -244,7 +243,6 @@
     <None Include="wwwroot\assets\vendor\swiper\swiper-bundle.min.js" />
     <None Include="wwwroot\assets\vendor\swiper\swiper-bundle.min.js.map" />
     <None Include="wwwroot\assets\vendor\waypoints\noframework.waypoints.js" />
-    <None Include="wwwroot\contact.html" />
     <None Include="wwwroot\forms\contact.php" />
     <None Include="wwwroot\forms\Readme.txt" />
     <None Include="wwwroot\forms\Resume Kyle Gough_Code.docx" />
